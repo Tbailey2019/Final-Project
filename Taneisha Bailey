@@ -1,0 +1,192 @@
+
+ <!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Final Project</title>
+		<style type="text/css">
+			html, #page { padding:0; margin:0;}
+			body { margin:0; padding:0; width:100%; color:black; font:normal 12px/2.0em Sans-Serif;} 
+			h1, h2, h3, h4, h5, h6 {color:black;}
+			#page { background:rosybrown;}
+			#header, #footer, #top-nav, #content, #content #contentbar, #content #sidebar { margin:0; padding:0;}
+						
+			/* Logo */
+			#logo { padding:10px; width:auto; float:left;}
+			#logo h1 a, h1 a:hover { color:white; text-decoration:none;}
+			#logo h1 span { color:white;}
+
+			/* Header */
+
+            #header { background: linear-gradient(to right, rosybrown,#FFEBCD, bisque,navajowhite,wheat,burlywood,tan, rosybrown);}
+			#header-inner { margin:0 auto; padding:10px; width:970px;background:wheat;}
+			
+			/* Feature */
+            .feature { background: linear-gradient(to right,rosybrown, #FFEBCD, bisque,navajowhite,wheat,burlywood,tan, rosybrown);};padding:0;}
+			.feature-inner { margin:auto;padding:10px;width:970px;background:WHEAT; }
+			.feature-inner h1 {color:black;font-size:32px;}
+			
+			/* Menu */
+			#top-nav { margin:0 auto; padding:0px 0 0; height:37px; float:right;}
+			#top-nav ul { list-style:none; padding:0; height:37px; float:left;}
+			#top-nav ul li { margin:0; padding:0 0 0 8px; float:left;}
+			#top-nav ul li a { display:block; margin:0; padding:8px 20px; color:black; text-decoration:none;}
+			#top-nav ul li.active a, #top-nav ul li a:hover { color:white;}
+			
+			/* Content */
+			#content-inner { margin:0 auto; padding:10px; width:970px;background:#fff;}
+			#content #contentbar { margin:0; padding:0; float:right; width:760px;}
+			#content #contentbar .article { margin:0 0 24px; padding:0 20px 0 15px; }
+			#content #sidebar { padding:0; float:left; width:200px;}
+			#content #sidebar .widget { margin:0 0 12px; padding:8px 8px 8px 13px;line-height:1.4em;}
+			#content #sidebar .widget h3 a { text-decoration:none;}
+			#content #sidebar .widget ul { margin:0; padding:0; list-style:none; color:white;}
+			#content #sidebar .widget ul li { margin:0;}
+			#content #sidebar .widget ul li { padding:4px 0; width:185px;}
+			#content #sidebar .widget ul li a { color:bisque; text-decoration:none; margin-left:-16px; padding:4px 8px 4px 16px;}
+			#content #sidebar .widget ul li a:hover { color:wheat; font-weight:bold; text-decoration:none;}
+			
+			/* Footerblurb */
+			#footerblurb { background:#eee;color:black;}
+			#footerblurb-inner { margin:0 auto; width:970px; padding:10px;background:#FFE4C4;border-bottom-right-radius:15px;border-bottom-left-radius:15px;}
+			#footerblurb .column { margin:0; text-align:justify; float:left;width:250px;padding:0 24px;}
+			
+			/* Footer */
+			#footer { background:rosybrown;}
+			#footer-inner { margin:auto; text-align:center; padding:12px; width:970px;}
+			#footer a {color:black;text-decoration:none;}
+			
+
+			.clr { clear:both; padding:0; margin:0; width:100%; font-size:0px; line-height:0px;}
+		</style>
+	
+	</head>
+	<body>
+		<div id="page">
+			<header id="header">
+				<div id="header-inner">	
+					<div id="logo">
+						<h1><a href="#">Sol<span>Creations</span></a></h1>
+					</div>
+					<div id="top-nav">
+						<ul>
+						<li><a href="#">Home</a></li>
+						<li><a href="#">Gallery</a></li>
+						<li><a href="#">Events</a></li>
+						<li><a href="#">Let's create</a></li>
+						</ul>
+					</div>
+					<div class="clr"></div>
+				</div>
+			</header>
+			<div class="feature">
+				<div class="feature-inner">
+				<center><h1>About</h1></center>
+				</div>
+			</div>
+		
+	
+			<div id="content">
+				<div id="content-inner">
+				
+					<main id="contentbar">
+						<div class="article">
+							<p><script> </script></p>
+						</div>
+					</main>
+					
+				
+							<h3>SOL</h3>
+                            
+                            <p> Schooled in the arts and raised on attention to detail, Sol pours her creative imagination into each event she designs, producing flawless and innovative experiences that leave lasting memories. Calling on her experience in art and entertainment, Sol brings unique life to each event, enabling her clients to showcase their personal taste and style. With contagious enthusiasm, Sol expertly guides guest through the event design process, provides attentive planning and support during event preparation, and produces the day’s event from beginning to end. Her goal?
+
+That you have the Best. Day. Ever. 
+
+Sol discovered her passion for event design and planning as a young artist who produced events for local art collectives as well non-profit orginizations Through her background in experiential marketing, Sol has learned how to connect people to experiences that allowed them to express themselves and their interests. With each event she plans, Sol encourages her team to find their inner artist, and helps to bring their wildest dreams to life. With contagious enthusiasm, Sol expertly guides her team through the event design process, provides attentive planning and support during event preparation, and produces the day’s event from beginning to end. His goal?
+
+That you have the Best. Day. Ever. 
+                    </p>
+                    					</div>
+                
+                                  <center>    <div id="cp_widget_772c2e11-d350-41fb-ac40-a1dd4041ef27">...</div><script type="text/javascript">
+var cpo = []; cpo["_object"] ="cp_widget_772c2e11-d350-41fb-ac40-a1dd4041ef27"; cpo["_fid"] = "AEIAunOMMfKb";
+var _cpmp = _cpmp || []; _cpmp.push(cpo);
+(function() { var cp = document.createElement("script"); cp.type = "text/javascript";
+cp.async = true; cp.src = "//www.cincopa.com/media-platform/runtime/libasync.js";
+var c = document.getElementsByTagName("script")[0];
+c.parentNode.insertBefore(cp, c); })(); </script><noscript><span>New Gallery 2019/12/20</span><span>height</span><span> 3648</span><span>width</span><span> 5472</span><span>focallength</span><span> 60</span><span>flash</span><span> 31</span><span>cameramake</span><span> NIKON CORPORATION</span><span>height</span><span> 1632</span><span>fnumber</span><span> 4.2</span><span>exposuretime</span><span> 0.0166666675</span><span>orientation</span><span> 1</span><span>camerasoftware</span><span> Adobe Photoshop CS5 </span><span>originaldate</span><span> 8/6/2016 2:16:17 PM</span><span>width</span><span> 2464</span><span>cameramodel</span><span> NIKON D5100</span><span>height</span><span> 356</span><span>width</span><span> 480</span><span>focallength</span><span> 55</span><span>flash</span><span> 31</span><span>cameramake</span><span> NIKON CORPORATION</span><span>height</span><span> 1632</span><span>fnumber</span><span> 4.2</span><span>exposuretime</span><span> 0.0166666675</span><span>orientation</span><span> 1</span><span>camerasoftware</span><span> Ver.1.00 </span><span>originaldate</span><span> 9/23/2016 4:17:30 PM</span><span>width</span><span> 2464</span><span>cameramodel</span><span> NIKON D5100</span><span>focallength</span><span> 60</span><span>flash</span><span> 31</span><span>cameramake</span><span> NIKON CORPORATION</span><span>height</span><span> 1632</span><span>fnumber</span><span> 4.2</span><span>exposuretime</span><span> 0.0166666675</span><span>orientation</span><span> 1</span><span>camerasoftware</span><span> Ver.1.00 </span><span>originaldate</span><span> 9/23/2016 4:06:54 PM</span><span>width</span><span> 2464</span><span>cameramodel</span><span> NIKON D5100</span><span>focallength</span><span> 29</span><span>flash</span><span> 16</span><span>cameramake</span><span> NIKON CORPORATION</span><span>height</span><span> 4000</span><span>fnumber</span><span> 4.5</span><span>exposuretime</span><span> 0.02</span><span>orientation</span><span> 1</span><span>camerasoftware</span><span> Ver.1.10 </span><span>originaldate</span><span> 1/10/2016 12:08:48 PM</span><span>width</span><span> 6000</span><span>cameramodel</span><span> NIKON D3400</span><span>focallength</span><span> 60</span><span>flash</span><span> 31</span><span>cameramake</span><span> NIKON CORPORATION</span><span>height</span><span> 1632</span><span>fnumber</span><span> 4.2</span><span>exposuretime</span><span> 0.0166666675</span><span>orientation</span><span> 1</span><span>camerasoftware</span><span> Ver.1.00 </span><span>originaldate</span><span> 12/9/2016 4:12:44 PM</span><span>width</span><span> 2464</span><span>cameramodel</span><span> NIKON D5100</span></noscript>
+						</center>  
+                
+                
+                
+<center><form>
+    <p>Let's Connect</p>
+    <labels>First Name
+        <br>
+        <input type="text" name="fn" required="">
+    </labels>
+    <br>
+    <label>Last Name
+        <br>
+        <input type="text" name="ln" required="">
+    </label>
+    <br>
+    <label>Email
+        <br>
+        <input type="email" name="eml" required="">
+    </label>
+    
+    <br>
+    <input type="submit" value="Submit">
+    <br>
+</form>
+    </center>
+
+
+					<div class="clr"></div>
+				</div>
+			</div>
+		
+			<div id="footerblurb">
+				<div id="footerblurb-inner">
+				
+					<div class="column">
+						<h2><span>Event</span></h2>
+                        
+             <iframe width="320" height="240" src="https://www.youtube.com/embed/ISfy-9NrR50" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="320" height="240" src="https://www.youtube.com/embed/kBPERsX4qfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+						<p><script></script></p>
+					</div>	
+					<div class="column">
+						<h2><span></span></h2>
+                        
+						<p><script></script></p>
+					</div>
+					<div class="column">
+						<h2><span> Videos     </span></h2> 
+                        
+                       <iframe width="320" height="240" src="https://www.youtube.com/embed/SrtOFVr6Rw8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                       
+                        <iframe width="320" height="240" src="https://www.youtube.com/embed/qnw3dcU-rx0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        
+                        
+                        
+
+                        <p><script></script></p>
+					</div>	
+	<div class="clr"></div>
+				</div>
+			</div>
+			<footer id="footer">
+				<div id="footer-inner">
+					<p>&copy; Copyright <a href="#">Sol Creations</a> &#124; <a href="#">Terms of Use</a> &#124; <a href="#">Privacy Policy</a></p>
+					<div class="clr"></div>
+				</div>
+			</footer>
+		</div>
+	</body>
+</html>
+
+
+
